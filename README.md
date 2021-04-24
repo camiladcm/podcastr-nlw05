@@ -16,6 +16,9 @@ This project was developed using the following technologies:
 - React
 - TypeScript
 
+## Preview
+[![Deploy with Vercel](https://vercel.com/button)](https://podcastr05-camiladcm.vercel.app/)
+
 ## 🚀 Getting started
 
 ### Requirements
